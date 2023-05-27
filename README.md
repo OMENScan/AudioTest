@@ -1,6 +1,7 @@
 # AudioTest
-Test Embedded MP3 Audio in Github
+Test Embedded MP3 Audio in Github for Obsidian Self-Service Audio
 
-https://github.com/OMENScan/AudioTest/assets/6663192/f61958c8-6921-47e2-96ee-134bcdb1a8a3
+| Description | Content |
+|-------------|---------|
+| This is a Blue Team Village video test.  Here we describe the content for which Obsidian Walthrough this video is applicabl for. | <video src="https://github.com/OMENScan/AudioTest/assets/6663192/e5482ac5-cab4-4249-87d2-ef906147c38e"></video> |
 
-https://github.com/OMENScan/AudioTest/assets/6663192/27d45cad-cb13-4a42-b6b4-b9d3f4b39322
